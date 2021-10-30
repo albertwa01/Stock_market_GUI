@@ -23,4 +23,3 @@ Spyder
 
 - __Demo Video:-__
 - https://user-images.githubusercontent.com/90147069/139523859-bf6ea2f4-ed9c-4c2a-a35f-d1d614761179.mp4
-
